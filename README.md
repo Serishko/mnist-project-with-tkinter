@@ -1,0 +1,2 @@
+# mnist project with tkinter
+ 
